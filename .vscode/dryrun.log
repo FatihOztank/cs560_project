@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fatih/Documents/dersler/cs560/cont_static_analsis_prot'
+make: Leaving directory '/home/fatih/Documents/dersler/cs560/cont_static_analsis_prot'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
